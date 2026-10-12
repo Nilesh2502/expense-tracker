@@ -3,7 +3,7 @@
 This is an expense tracker which helps user tracker and split expenses.
 
 ## Build and Run
-- Run the application: `python app.py` (runs on port 5001 by default)
+- Run the application: `python3 app.py` (runs on port 5001 by default)
 - Install dependencies: `pip install -r requirements.txt`
 - Run tests: `pytest`
 
